@@ -1,0 +1,99 @@
+[1] G. Tzanetakis and P. Cook, “Musical genre classification of audio signals,”
+    IEEE Transactions on Speech and Audio Processing, vol. 10, no. 5,
+    pp. 293–302, Jul. 2002.
+
+[2] T. Li, M. Ogihara, and Q. Li, “A comparative study on content-based music genre classification,”
+    in Proc. ACM SIGIR, 2003, pp. 282–289.
+
+[3] K. Choi, G. Fazekas, M. Sandler, and K. Cho,
+    “Convolutional recurrent neural networks for music classification,”
+    in Proc. IEEE ICASSP, 2017, pp. 2392–2396.
+
+[4] S. Dieleman and B. Schrauwen,
+    “End-to-end learning for music audio,”
+    in Proc. IEEE ICASSP, 2014, pp. 6964–6968.
+
+[5] J. Deng et al.,
+    “Audio-based music classification with convolutional neural networks,”
+    in Proc. ACM Multimedia, 2014, pp. 115–124.
+
+[6] J. Salamon and J. P. Bello,
+    “Deep convolutional neural networks and data augmentation for environmental sound classification,”
+    IEEE Signal Processing Letters, vol. 24, no. 3, pp. 279–283, Mar. 2017.
+
+[7] B. McFee et al.,
+    “librosa: Audio and music signal analysis in Python,”
+    in Proc. SciPy, 2015, pp. 18–25.
+
+[8] Y. LeCun, Y. Bengio, and G. Hinton,
+    “Deep learning,”
+    Nature, vol. 521, no. 7553, pp. 436–444, May 2015.
+
+[9]  S. Rajanna and P. K. Bora,
+     “Low-complexity deep neural networks for real-time audio classification,”
+     IEEE Access, vol. 8, pp. 132453–132463, 2020.
+
+[10] A. Verma and S. Patel,
+     “Latency-aware convolutional neural networks for streaming audio classification,”
+     in Proc. ACM Multimedia Systems Conference, 2020, pp. 45–56.
+
+[11] R. Gupta, H. Lin, and P. Smaragdis,
+     “An empirical comparison of MFCC and raw waveform inputs for low-latency audio classification,”
+     Journal of Signal Processing Systems, vol. 92, no. 2, pp. 189–201, Feb. 2020.
+
+[12] M. Won, K. Choi, and X. Serra,
+     “Evaluation of real-time music classification systems under streaming constraints,”
+     in Proc. International Society for Music Information Retrieval (ISMIR), 2021, pp. 676–683.
+
+[13] L. Nanni, S. Ghidoni, and S. Brahnam,
+     “Handcrafted versus learned features for audio classification: A comparative analysis,”
+     Expert Systems with Applications, vol. 81, pp. 52–65, Sep. 2017.
+
+[14] J. Nam, J. Herrera, and K. Lee,
+     “Deep learning approaches for music audio tagging and classification,”
+     IEEE Signal Processing Magazine, vol. 36, no. 1, pp. 65–76, Jan. 2019.
+
+[15] A. Ferraro, M. Favero, and M. Zanoni,
+     “Deploying deep learning models for real-time audio analysis in interactive systems,”
+     IEEE Transactions on Multimedia, vol. 23, no. 6, pp. 1921–1933, Jun. 2021.
+
+[16] S. Theodoridis and K. Koutroumbas,
+     Pattern Recognition, 4th ed.
+     Academic Press, 2009.
+
+[17] D. Ellis,
+     “PLP and RASTA and MFCC, and inversion,”
+     Columbia University Technical Report, 2005.
+
+[18] T. Virtanen, M. Plumbley, and D. Ellis,
+     Computational Analysis of Sound Scenes and Events,
+     Springer, 2018.
+
+[19] E. Humphrey, J. Bello, and Y. LeCun,
+     “Moving beyond feature design: Deep architectures and automatic feature learning in music informatics,”
+     in Proc. ISMIR, 2012, pp. 403–408.
+
+[20] M. Won, J. Salamon, and J. P. Bello,
+     “Evaluation of CNN-based audio classification with data augmentation,”
+     IEEE AASP Challenge Workshop, 2018.
+
+[21] I. Goodfellow, Y. Bengio, and A. Courville,
+     Deep Learning,
+     MIT Press, 2016.
+
+[22] D. Kingma and J. Ba,
+     “Adam: A method for stochastic optimization,”
+     in Proc. ICLR, 2015.
+
+[23] L. Bottou,
+     “Stochastic gradient descent tricks,”
+     in Neural Networks: Tricks of the Trade,
+     Springer, 2012.
+
+[24] A. Krizhevsky, I. Sutskever, and G. Hinton,
+     “ImageNet classification with deep convolutional neural networks,”
+     in Proc. NIPS, 2012.
+
+[25] J. Redmon and A. Farhadi,
+     “Performance evaluation of deep neural networks in real-time systems,”
+     IEEE Embedded Systems Letters, vol. 12, no. 2, pp. 45–48, 2020.

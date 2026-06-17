@@ -9,11 +9,11 @@ from sklearn.preprocessing import StandardScaler
 import os
 
 # ==============================
-# Paths
+# Paths (Use Relative Paths)
 # ==============================
-MODEL_PATH = r"F:\RealTime_Music_Genre_Classification\model\cnn_genre_model.h5"
-SCALER_MEAN_PATH = r"F:\RealTime_Music_Genre_Classification\model\scaler.npy"
-SCALER_SCALE_PATH = r"F:\RealTime_Music_Genre_Classification\model\scaler_scale.npy"
+MODEL_PATH = "model/cnn_genre_model.h5"
+SCALER_MEAN_PATH = "model/scaler.npy"
+SCALER_SCALE_PATH = "model/scaler_scale.npy"
 
 TEMP_AUDIO_FILE = "temp_audio.wav"
 LIVE_AUDIO_FILE = "live_audio.wav"

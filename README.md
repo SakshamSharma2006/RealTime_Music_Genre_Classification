@@ -1,6 +1,7 @@
 # 🎧 Real-Time Music Genre Classification using CNN and MFCC
 
 [![Paper](https://img.shields.io/badge/Published-IJAIR%20Vol.13%20Issue%201%20(XIII)-blue)](https://iaraedu.com/about-journal/ijair-volume-13-issue-1-xiii-january-march-2026.php)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20354001.svg)](https://doi.org/10.5281/zenodo.20354001)
 [![ISSN](https://img.shields.io/badge/ISSN-2394--7780-orange)](https://iaraedu.com/about-journal/ijair-volume-13-issue-1-xiii-january-march-2026.php)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)

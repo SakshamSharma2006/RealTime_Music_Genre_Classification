@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-95.0%25-success)]()
 
-A lightweight, deployment-ready **MFCC + CNN** framework for classifying music genres in **real time**, built for interactive systems where both accuracy and low latency matter. This repository accompanies the peer-reviewed research paper *"Real-Time Music Genre Classification using CNN and MFCC for Interactive Systems"*, published in the **International Journal of Advance and Innovative Research (IJAIR)**, Volume 13, Issue 1 (XIII), January–March 2026.
+A lightweight, deployment-ready **MFCC + CNN** framework for classifying music genres in **real time**, built for interactive systems where both accuracy and low latency matter. This repository accompanies the peer-reviewed research paper *"Real-Time Music Genre Classification using CNN and MFCC for Interactive Systems"*, published in the **International Journal of Advance and Innovative Research (IJAIR)**, Volume 13, Issue 1 (XIII), January–March 2026
 
 📄 **Published Paper:** [IJAIR Volume 13, Issue 1 (XIII)](https://iaraedu.com/about-journal/ijair-volume-13-issue-1-xiii-january-march-2026.php)
 
